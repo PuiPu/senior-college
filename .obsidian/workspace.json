@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "96d4bdf5374ff85c",
+    "type": "split",
+    "children": [
+      {
+        "id": "afca8b698419f59e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3928d89c9bd23620",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Autumn/TEXTBOOK/Algorithms-JeffE.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Algorithms-JeffE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a42799777b02f07e",
+    "type": "split",
+    "children": [
+      {
+        "id": "886b9c01d7892165",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90b80f43c7ae2ea3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b55e5782a5d83878",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1550a154e561e517",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e32c7284361140b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7820a7a0575204b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "add39ef2dd083d23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Autumn/TEXTBOOK/Algorithms-JeffE.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Algorithms-JeffE"
+            }
+          },
+          {
+            "id": "2d077b36493e33da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Autumn/TEXTBOOK/Algorithms-JeffE.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Algorithms-JeffE"
+            }
+          },
+          {
+            "id": "47b5ef1e8a02df0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f823c33adb0355b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Autumn/TEXTBOOK/Algorithms-JeffE.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Algorithms-JeffE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3928d89c9bd23620",
+  "lastOpenFiles": [
+    "README.md",
+    "Autumn/TEXTBOOK/Algorithms-JeffE.pdf",
+    "Autumn/TEXTBOOK",
+    "Autumn/計算機圖學",
+    "Autumn/高等演算法",
+    "img",
+    "Autumn",
+    "Spring"
+  ]
+}
