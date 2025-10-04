@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3928d89c9bd23620",
+            "id": "d2b3d62acc692b00",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Autumn/TEXTBOOK/Algorithms-JeffE.pdf"
+                "file": "Autumn/高等演算法/first quiz/quiz 1.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Algorithms-JeffE"
+              "icon": "lucide-file",
+              "title": "quiz 1"
             }
           }
         ]
@@ -158,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,15 +170,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "3928d89c9bd23620",
+  "active": "90b80f43c7ae2ea3",
   "lastOpenFiles": [
-    "README.md",
-    "Autumn/TEXTBOOK/Algorithms-JeffE.pdf",
-    "Autumn/TEXTBOOK",
-    "Autumn/計算機圖學",
-    "Autumn/高等演算法",
-    "img",
-    "Autumn",
-    "Spring"
+    "Autumn/計算機圖學/ch_bezier.pdf",
+    "Autumn/計算機圖學/尚未確認的 925117.crdownload",
+    "Autumn/計算機圖學/HW1/data/pencil.png",
+    "Autumn/計算機圖學/HW1/data/line.png",
+    "Autumn/計算機圖學/HW1/data/eraser.png",
+    "Autumn/計算機圖學/HW1/data/clear.png",
+    "Autumn/計算機圖學/HW1/data",
+    "Autumn/計算機圖學/HW1/Vector3.pde",
+    "Autumn/計算機圖學/HW1/util.pde",
+    "Autumn/計算機圖學/HW1/Renderer.pde",
+    "Autumn/計算機圖學/HW1/README.md",
+    "Autumn/計算機圖學/HW1/Point.pde",
+    "Autumn/計算機圖學/HW1/HW1.pde",
+    "Autumn/計算機圖學/HW1/ButtonFunction.pde",
+    "Autumn/計算機圖學/HW1/Button.pde",
+    "Autumn/計算機圖學/HW1",
+    "Pasted image 20250923104700.png",
+    "Pasted image 20250923104621.png",
+    "Autumn/高等演算法/first quiz/quiz 1.md",
+    "Autumn/計算機圖學/hw0/README.md",
+    "Autumn/高等演算法/2025.9.9.md",
+    "README.md"
   ]
 }
