@@ -9,34 +9,36 @@ public void CGLine(float x1, float y1, float x2, float y2) {
     // For instance: drawPoint(114, 514, color(255, 0, 0)); signifies drawing a red
     // point at (114, 514).
     
-    // Reference: https://www.geeksforgeeks.org/dsa/mid-point-line-generation-algorithm/
+    // Bresenham line algorithm
+    // Convert coordinates to integer pixel positions
+    int x0 = round(x1);
+    int y0 = round(y1);
+    int x1i = round(x2);
+    int y1i = round(y2);
 
-    // 問題: 只能畫在第一象限
-    float dx = x2 - x1;
-    float dy = y2 - y1;
-    
-    float d = dy - (dx / 2);
-    float x = x1;
-    float y = y1;
+    int dx = abs(x1i - x0);
+    int dy = abs(y1i - y0);
 
-    // plot the initial point
-    drawPoint(round(x), round(y), color(0));
+    int sx = x0 < x1i ? 1 : -1;
+    int sy = y0 < y1i ? 1 : -1;
 
-    // iterative through value of x
-    while (x < x2) {
-        x = x + 1;
+    int err = dx - dy;
 
-        if (d < 0) { // E is chosen
-            d = d + dy;
+    while (true) {
+        drawPoint(x0, y0, color(0));
+        if (x0 == x1i && y0 == y1i) break;
+        int e2 = 2 * err;
+        if (e2 > -dy) {
+            err -= dy;
+            x0 += sx;
         }
-        else { // NE is chosen
-            d = d + (dy - dx);
-            y = y + 1;
-        }
 
-        drawPoint(round(x), round(y), color(0));
-    }
-    
+	    if (e2 < dx) {
+            err += dx;
+            y0 += sy;
+        }
+	}
+
     /*
      stroke(0);
      noFill();
@@ -53,8 +55,6 @@ public void CGCircle(float centerX, float centerY, float r) {
     // Otherwise, you will receive a score of 0 for this part.
     // Utilize the function drawPoint(x, y, color) to apply color to the pixel at
     // coordinates (x, y).
-
-    // Reference: https://www.geeksforgeeks.org/dsa/mid-point-circle-drawing-algorithm/
     
     // Initialize coordinates for the midpoint circle algorithm
     float x = r;

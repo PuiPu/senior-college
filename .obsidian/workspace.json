@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "afca8b698419f59e",
+        "id": "6fdc30158cfaacc5",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b3d62acc692b00",
+            "id": "9462fe4e162260d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autumn/高等演算法/first quiz/quiz 1.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "quiz 1"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autumn/TEXTBOOK/Algorithms-JeffE.pdf",
+                "file": "Autumn/計算機圖學/HW1/111502544_HW1/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Algorithms-JeffE"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autumn/TEXTBOOK/Algorithms-JeffE.pdf",
+                "file": "Autumn/計算機圖學/HW1/111502544_HW1/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Algorithms-JeffE"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autumn/TEXTBOOK/Algorithms-JeffE.pdf",
+                "file": "Autumn/計算機圖學/HW1/111502544_HW1/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Algorithms-JeffE"
+              "title": "Outline of README"
             }
           }
         ]
@@ -172,27 +168,39 @@
   },
   "active": "90b80f43c7ae2ea3",
   "lastOpenFiles": [
-    "Autumn/計算機圖學/ch_bezier.pdf",
-    "Autumn/計算機圖學/尚未確認的 925117.crdownload",
-    "Autumn/計算機圖學/HW1/data/pencil.png",
-    "Autumn/計算機圖學/HW1/data/line.png",
-    "Autumn/計算機圖學/HW1/data/eraser.png",
-    "Autumn/計算機圖學/HW1/data/clear.png",
-    "Autumn/計算機圖學/HW1/data",
-    "Autumn/計算機圖學/HW1/Vector3.pde",
-    "Autumn/計算機圖學/HW1/util.pde",
-    "Autumn/計算機圖學/HW1/Renderer.pde",
+    "Autumn/計算機圖學/HW1 - 複製/data/pencil.png",
+    "Autumn/計算機圖學/HW1 - 複製/data/line.png",
+    "Autumn/計算機圖學/HW1 - 複製/data/eraser.png",
+    "Autumn/計算機圖學/HW1 - 複製/data/clear.png",
+    "Autumn/計算機圖學/HW1 - 複製/data",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/img/7.png",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/img/6.png",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/img/5.png",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/img/3.png",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/img/4.png",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/img/2.png",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/img/1.png",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/img",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/data",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/Vector3.pde",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/util.pde",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/Renderer.pde",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/README.md",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/Point.pde",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/HW1.pde",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/ButtonFunction.pde",
+    "Autumn/計算機圖學/HW1 - 複製/111502544_HW1/Button.pde",
+    "Autumn/計算機圖學/HW1 - 複製/README.md",
+    "Autumn/計算機圖學/111502544_HW1/README.md",
+    "README.md",
     "Autumn/計算機圖學/HW1/README.md",
-    "Autumn/計算機圖學/HW1/Point.pde",
-    "Autumn/計算機圖學/HW1/HW1.pde",
-    "Autumn/計算機圖學/HW1/ButtonFunction.pde",
-    "Autumn/計算機圖學/HW1/Button.pde",
-    "Autumn/計算機圖學/HW1",
-    "Pasted image 20250923104700.png",
-    "Pasted image 20250923104621.png",
-    "Autumn/高等演算法/first quiz/quiz 1.md",
+    "Autumn/計算機圖學/HW1/111502544_HW1/README.md",
+    "img/README.md",
+    "Autumn/高等演算法/ch2 backtracking/N-Queens.md",
+    "Autumn/高等演算法/first quiz/quiz 1 note.md",
+    "Autumn/高等演算法/quiz 1/quiz 1 note.md",
+    "Autumn/高等演算法/first quiz/Untitled.md",
     "Autumn/計算機圖學/hw0/README.md",
-    "Autumn/高等演算法/2025.9.9.md",
-    "README.md"
+    "Autumn/高等演算法/2025.9.9.md"
   ]
 }
